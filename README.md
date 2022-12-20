@@ -4,16 +4,12 @@ My name is Andres Sanchez 😃. I am from Elche, an small city in Spain and I am
 
 ## ⚡ Technologies
 Talk to me about:
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
+- Backend development using **Java**.
+- Making for **Relational Database Management Systems**: MySQL, Oracle.
+- Mobile application development using **Kotlin**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: 
-- 🎯 Portfolio site: 
-- 🔔 Subscribe:-
+- 💬 Ask me about anything an everything: andresmarnez@gmail.com
+- 🔔 Lets connect!: https://www.linkedin.com/in/andresmarnez/
 - ⚡ Fun fact: Internet users blink less than usual.
