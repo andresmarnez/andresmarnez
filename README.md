@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚌𝚘𝚍𝚎𝚛𝚜/>!  </h2>
 
-My name is Andres Sanchez 😃. I am from Elche, an small city in Spain and I am currently doing Higher Vocational Training 🏫. I love to explore and learn about new things.
+My name is Andres Sanchez 😃. I am from Elche, a small city in Spain and I am currently doing Higher Vocational Training 🏫. I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about:
